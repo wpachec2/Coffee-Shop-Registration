@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{1CE76847-F9AD-4787-AA3D-64ECE33E047C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Coffee Shop/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Coffee Shop/Controllers/HomeController.cs" Line="33" Column="25" />
+      <File FileName="Coffee Shop/Views/Home/Index.cshtml" Line="12" Column="29" />
+      <File FileName="Coffee Shop/Views/Home/Privacy.cshtml" Line="33" Column="1" />
+      <File FileName="Coffee Shop/Views/Home/Form.cshtml" Line="22" Column="8" />
+      <File FileName="Coffee Shop/Views/Home/Result.cshtml" Line="14" Column="5" />
+      <File FileName="Coffee Shop/Views/Shared/_Layout.cshtml" Line="29" Column="119" />
+      <File FileName="Coffee Shop/Models/User.cs" Line="10" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Coffee Shop" expanded="True">
+            <Node name="Coffee Shop" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Coffee_220Shop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

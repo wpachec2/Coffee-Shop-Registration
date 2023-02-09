@@ -1,0 +1,31 @@
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/bin/Debug/net6.0/appsettings.Development.json
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/bin/Debug/net6.0/appsettings.json
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/bin/Debug/net6.0/Coffee Shop.staticwebassets.runtime.json
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/bin/Debug/net6.0/Coffee Shop
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/bin/Debug/net6.0/Coffee Shop.deps.json
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/bin/Debug/net6.0/Coffee Shop.runtimeconfig.json
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/bin/Debug/net6.0/Coffee Shop.dll
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/bin/Debug/net6.0/Coffee Shop.pdb
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.csproj.AssemblyReference.cache
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.AssemblyInfoInputs.cache
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.AssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.csproj.CoreCompileInputs.cache
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.MvcApplicationPartsAssemblyInfo.cache
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.RazorAssemblyInfo.cache
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.RazorAssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/staticwebassets/msbuild.Coffee Shop.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/staticwebassets/msbuild.build.Coffee Shop.props
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Coffee Shop.props
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Coffee Shop.props
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/staticwebassets.build.json
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/staticwebassets.development.json
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/scopedcss/bundle/Coffee Shop.styles.css
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/scopedcss/projectbundle/Coffee Shop.bundle.scp.css
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.dll
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/refint/Coffee Shop.dll
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.pdb
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/Coffee Shop.genruntimeconfig.cache
+/Users/wilchec/GrandCircus/Projects/Coffee Shop/Coffee Shop/obj/Debug/net6.0/ref/Coffee Shop.dll
