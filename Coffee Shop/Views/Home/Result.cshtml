@@ -8,7 +8,16 @@
 <h1>Welcome @Model.FirstName @Model.LastName!</h1>
 
 <p>
-    You have entered the truest of all Loyalty programs, click 
+    You have entered the truest of all Loyalty programs, click
     <a href="https://sites.google.com/view/the-shrek-cult/shrek-is-love-shrek-is-life?pli=1"> HERE</a>
     to see our most beautiful specimen.
 </p>
+
+<p>Enjoy a 10% off discount on the @Model.Flavor Lattes </p>
+
+@{
+    if (Model.Lactose)
+    {
+        <p>We Will prepare your drinks with Oat Milk</p>
+    }
+}
